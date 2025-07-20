@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🚀 Projects 
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
