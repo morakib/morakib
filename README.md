@@ -10,9 +10,10 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [AnonymousMessageViaTelegram](https://github.com/morakib/AnonymousMessageViaTelegram) | Secure anonymous messaging via Telegram | Python, Telegram Bot |
-| [Pigeon-messaging-app](https://github.com/morakib/Pigeon-messaging-app) | Real-time chat app with Socket.IO | Node.js, Socket.IO, HTML, CSS |
+| [Pigeon-messaging-app](https://github.com/morakib/Pigeon-messaging-app) | Real-time chat app with Flutter | Flutter |
 | [SpaceShot](https://github.com/morakib/SpaceShot) | Multiplayer space shooter game | Python, Pygame |
 | [sWORD](https://github.com/morakib/sWORD) | Online word game | JavaScript, HTML, CSS |
+| [Anime Recommendation System](https://github.com/morakib/anime-recommendation/blob/main/anime-recommendation.ipynb) | Recommends anime | numpy, Pandas, NLTK |
 | [Bankai](https://github.com/morakib/Bankai) | Telegram-integrated Facebook login page | HTML, CSS, Telegram Bot |
 
 
